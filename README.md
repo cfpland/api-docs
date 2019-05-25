@@ -1,6 +1,6 @@
-# CFP Land API Documentation
+# [CFP Land API Documentation](https://cfpland.github.io/api-docs/)
 
-This document outlines the endpoints available for the [CFP Land](https://www.cfpland.com/)conference data API. This repo will also be used to track improvements and changes - including new versions, deprecations, and enhanced functionality, so you might want to [watch on Github](https://github.com/cfpland/api-docs/watchers) if you're actively using this API.
+This document outlines the endpoints available for the [CFP Land](https://www.cfpland.com/) conference data API. This repo will also be used to track improvements and changes - including new versions, deprecations, and enhanced functionality, so you might want to [watch on Github](https://github.com/cfpland/api-docs/watchers) if you're actively using this API.
 
 > **Note:** This API is experimental, and subject to change, but I'll try not to introduce any breaking changes to the `/v0/` path.
 
