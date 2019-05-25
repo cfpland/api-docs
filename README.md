@@ -6,6 +6,8 @@ This document outlines the endpoints available for the [CFP Land conference data
 
 ## Unauthenticated Users
 
+Public, unrestricted access to the CFP Land API includes all conferences with CFPs closing in the next 21 days. This same data is also available via our [RSS Feed or website](https://www.cfpland.com/conferences/).
+
 ### Get Conferences
 
 ```
