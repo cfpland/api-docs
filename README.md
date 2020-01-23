@@ -99,17 +99,6 @@ GET https://api.cfpland.com/v0/conferences
 }
 ```
 
-## Professional Plan Users
-
-Subscribers to [CFP Land's Pro Plan](https://pro.cfpland.com/) may request API access that gives them access to more data including:
-
-- Conferences in the past (up to one year)
-- Conferences with CFPs closing in the future (up to 42 days)
-- Full text search
-- And more!
-
-[Check out our Pro Plan Details for more](https://pro.cfpland.com/).
-
 ## Support or Contact
 
 If you believe you've found an error in this documentation or the API itself, please create an issue here in Github. This helps ensure that other users can learn from any problems you encounter and track solutions.
